@@ -1,0 +1,4 @@
+A new object is created
+The Initial X,Y and acceleration Coordinates are:  {'x': 5, 'y': 2, 'a': 1}
+A new object is created
+The Initial X,Y and acceleration Coordinates are:  {'x': 0, 'y': 0, 'a': 1}
