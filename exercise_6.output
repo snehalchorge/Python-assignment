@@ -1,0 +1,125 @@
+Enter the number of instances you want to create: 5
+New aircraft object has been initialized: 0
+A new object is created
+Initial X coordinate is: 18
+Initial Y coordinate is: 93
+Boeing747 is going places
+Final X Coordinate is: 31
+Final Y Coordinate is: 93
+Starting from:  (18, 31)
+Headed to:  (31, 93)
+18 93.0
+19 93.0
+20 93.0
+21 93.0
+22 93.0
+23 93.0
+24 93.0
+25 93.0
+26 93.0
+27 93.0
+28 93.0
+29 93.0
+30 93.0
+you have arrived
+A new object is created
+The accelerations is: 1
+New aircraft object has been initialized: 1
+A new object is created
+Initial X coordinate is: 91
+Initial Y coordinate is: 47
+Boeing747 is going places
+Final X Coordinate is: 88
+Final Y Coordinate is: 24
+Starting from:  (91, 88)
+Headed to:  (88, 24)
+you have arrived
+A new object is created
+The accelerations is: 1
+New aircraft object has been initialized: 2
+A new object is created
+Initial X coordinate is: 5
+Initial Y coordinate is: 69
+Boeing747 is going places
+Final X Coordinate is: 56
+Final Y Coordinate is: 58
+Starting from:  (5, 56)
+Headed to:  (56, 58)
+5 69.0
+6 68.7843137254902
+7 68.56862745098039
+8 68.3529411764706
+9 68.13725490196079
+10 67.92156862745098
+11 67.70588235294117
+12 67.49019607843137
+13 67.27450980392157
+14 67.05882352941177
+15 66.84313725490196
+16 66.62745098039215
+17 66.41176470588235
+18 66.19607843137254
+19 65.98039215686275
+20 65.76470588235294
+21 65.54901960784314
+22 65.33333333333333
+23 65.11764705882354
+24 64.90196078431373
+25 64.68627450980392
+26 64.47058823529412
+27 64.25490196078431
+28 64.0392156862745
+29 63.8235294117647
+30 63.6078431372549
+31 63.3921568627451
+32 63.17647058823529
+33 62.96078431372549
+34 62.745098039215684
+35 62.529411764705884
+36 62.31372549019608
+37 62.09803921568627
+38 61.88235294117647
+39 61.666666666666664
+40 61.450980392156865
+41 61.23529411764706
+42 61.01960784313725
+43 60.80392156862745
+44 60.588235294117645
+45 60.372549019607845
+46 60.15686274509804
+47 59.94117647058823
+48 59.72549019607843
+49 59.509803921568626
+50 59.294117647058826
+51 59.07843137254902
+52 58.86274509803921
+53 58.64705882352941
+54 58.431372549019606
+55 58.21568627450981
+you have arrived
+A new object is created
+The accelerations is: 1
+New aircraft object has been initialized: 3
+A new object is created
+Initial X coordinate is: 96
+Initial Y coordinate is: 69
+Boeing747 is going places
+Final X Coordinate is: 40
+Final Y Coordinate is: 38
+Starting from:  (96, 40)
+Headed to:  (40, 38)
+you have arrived
+A new object is created
+The accelerations is: 1
+New aircraft object has been initialized: 4
+A new object is created
+Initial X coordinate is: 91
+Initial Y coordinate is: 42
+Boeing747 is going places
+Final X Coordinate is: 45
+Final Y Coordinate is: 4
+Starting from:  (91, 45)
+Headed to:  (45, 4)
+you have arrived
+A new object is created
+The accelerations is: 1
