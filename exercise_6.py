@@ -33,3 +33,10 @@ class Boeing747(Aircraft):
         Aircraft.__init__(self)
         print ("The accelerations is:", self.a)
         
+l=int(input("Enter the number of instances you want to create: "))        
+
+for k in range(l):
+    print("New aircraft object has been initialized:",k)
+    k=Boeing747()
+    k.priacc()
+ 
