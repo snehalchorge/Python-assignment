@@ -1,0 +1,36 @@
+Enter the number of instances you want to create: 5
+New aircraft object has been initialized: 0
+A new object is created
+Initial X coordinate is: 69
+Initial Y coordinate is: 41
+Boeing747 is going places
+Final X Coordinate is: 27
+Final Y Coordinate is: 22
+New aircraft object has been initialized: 1
+A new object is created
+Initial X coordinate is: 31
+Initial Y coordinate is: 19
+Boeing747 is going places
+Final X Coordinate is: 70
+Final Y Coordinate is: 87
+New aircraft object has been initialized: 2
+A new object is created
+Initial X coordinate is: 83
+Initial Y coordinate is: 99
+Boeing747 is going places
+Final X Coordinate is: 26
+Final Y Coordinate is: 10
+New aircraft object has been initialized: 3
+A new object is created
+Initial X coordinate is: 11
+Initial Y coordinate is: 56
+Boeing747 is going places
+Final X Coordinate is: 46
+Final Y Coordinate is: 84
+New aircraft object has been initialized: 4
+A new object is created
+Initial X coordinate is: 56
+Initial Y coordinate is: 94
+Boeing747 is going places
+Final X Coordinate is: 80
+Final Y Coordinate is: 50
